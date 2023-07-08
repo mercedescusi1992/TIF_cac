@@ -11,7 +11,7 @@ createApp({
       imagen: "",
       stock: 0,
       precio: 0,
-      url: "https://mercedescusi.pythonanywhere.com/productos" + id,
+      url: "https://mercedescusi.pythonanywhere.com/productos/" + id,
     };
   },
   methods: {
